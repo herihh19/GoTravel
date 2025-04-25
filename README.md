@@ -1,6 +1,6 @@
 # GoTravel
 
-Chatbot da GoTravel, para informar sobre venda de pacotes de viagens, passagens aéreas, hospedagem etc.
+Chatbot da GoTravel, empresa de agência de viagens com o intuito de informar sobre venda de pacotes de viagens, passagens aéreas, hospedagem etc.
 
 ## Funcionalidades
 
